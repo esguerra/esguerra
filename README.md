@@ -1,7 +1,7 @@
 
 <p align="justify">
 <img src="https://raw.githubusercontent.com/esguerra/mesguerra.org/master/static/images/random_8.png" width="26%" align="right"/>
-I'm a -- Senior Project Manager | Computational Chemist -- at Nostrum Biodiscovery in Barcelona, Spain. Using tools from computational chemistry I have explored the behavior of biopolymers, in particular RNA, triple-helical DNA and G Protein Coupled Receptors (GPCR's). This research has taken me from my native Bogotá, Colombia, to New Jersey, U.S.A, then to Stockholm, Sweden, Copenhagen, Denmark, and now Barcelona.
+-- Senior Project Manager | Computational Chemist -- at Nostrum Biodiscovery in Barcelona, Spain. Using tools from computational chemistry I have explored the behavior of biopolymers, in particular RNA, triple-helical DNA and G Protein Coupled Receptors (GPCR's). This research has taken me from my native Bogotá, Colombia, to New Jersey, U.S.A, then to Stockholm, Sweden, Copenhagen, Denmark, and now Barcelona.
 I have a long standing interest in computational methods which started back home while taking our core course in Numerical Methods at the <a href="https://unal.edu.co">Universidad Nacional de Colombia</a> by professor Oswaldo Lezama.
 </p>
 
